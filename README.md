@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agus Suhardi</h1>
 <h3 align="center">I'm a passionate Software Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Rust Programming Language, DevOps**
+- 🌱 I’m currently learning **Rust Programming Language and DevOps**
 
 - 💬 Ask me about **Java, Spring, Angular**
 
